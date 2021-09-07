@@ -7,4 +7,4 @@
 
 ## Find me ANYWHERE!
 
-[<img aligh="left" alt="linktree.com/oudounmohamed" width="22px" src="https://cdn.worldvectorlogo.com/logos/linktree-1.svg" >][Linktree](https://linktr.ee/oudounmohamed)
+[<img aligh="left" alt="linktree.com/oudounmohamed" width="50px" src="https://cdn.worldvectorlogo.com/logos/linktree-1.svg" >][Linktree](https://linktr.ee/oudounmohamed)
