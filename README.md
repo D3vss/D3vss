@@ -26,9 +26,23 @@
 
 ## Languages and Tools:
 
-<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+### Tools:
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>][https://code.visualstudio.com/]
+[<img aligh="left" alt="D3vss | Android Studio" width="24px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>][https://developer.android.com/studio]
+[<img aligh="left" alt="D3vss | Pycharm" width="24px"  src="https://img.icons8.com/color/48/000000/pycharm.png"/>][https://www.jetbrains.com/pycharm/]
 
+### Web Development:
 
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][html]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][js]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/nodejs.png"/>][nodejs]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://camo.githubusercontent.com/0566752248b4b31b2c4bdc583404e41066bd0b6726f310b73e1140deefcc31ac/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67"/>][express]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/react-native.png"/>][reactjs]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/mongodb.png"/>][mongodb]
+[<img aligh="left" alt="D3vss | VScode" width="24px"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>][mysql]
+
+###
 
 
 
