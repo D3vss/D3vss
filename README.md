@@ -8,19 +8,19 @@
 ## Find me ANYWHERE!
 
 ### Connect with me
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />][linkedin] Linkedin
-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter] Twitter
-- [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> ][instagram] Instagram
-- [<img src="https://img.icons8.com/color/48/000000/new-post.png"/>][email]
+- [<img align="left" alt="D3vss | LinkedIn" width="22px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />][linkedin] Linkedin
+- [<img align="left" alt="D3vss | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter] Twitter
+- [<img align="left" alt="D3vss | Instagram" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> ][instagram] Instagram
+- [<img align="left" alt="D3vss | Dribbble" width="22px" src="https://img.icons8.com/color/48/000000/new-post.png"/>][email]
 
 ### Checkout my creative work:
 
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/behance.png"/>][behance] Behance
-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/dribbble.png"/>][dribbble] Dribbble
+- [<img align="left" alt="D3vss | Behance" width="22px" src="https://img.icons8.com/color/48/000000/behance.png"/>][behance] Behance
+- [<img align="left" alt="D3vss | Dribbble" width="22px" src="https://img.icons8.com/color/48/000000/dribbble.png"/>][dribbble] Dribbble
 
 
 ### All my socials
-[<img aligh="left" alt="linktree.com/oudounmohamed" width="50px" <img src="https://img.icons8.com/color/48/000000/linktree.png"/> >][linktree]
+[<img aligh="left" alt="D3vss | Linktree" width="50px" src="https://img.icons8.com/color/48/000000/linktree.png"/> ][linktree]
 
 
 
