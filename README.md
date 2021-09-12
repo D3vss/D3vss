@@ -40,8 +40,6 @@
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>][vscode]
 [<img aligh="left" alt="D3vss | Android Studio" width="30px" src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/>][androidstudio]
 [<img aligh="left" alt="D3vss | Pycharm" width="30px"  src="https://img.icons8.com/color/48/000000/pycharm.png"/>][pycharm]
-
-
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>][html]
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/css3.png"/>][css]
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>][js]
@@ -54,9 +52,7 @@
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>][mysql]
 
 [<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/c-programming.png"/>][c]
-[<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][cpp]
-
-<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
+[<img aligh="left" alt="D3vss | VScode" width="30px"  src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>][cpp]<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/000000/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
