@@ -1,4 +1,5 @@
-### HEY THERE! I'm Mohamed - aka [D3vss][D3vss] 
+# HEY THERE 👋! I'm Mohamed - aka [D3vss][D3vss] 
+</br>
 
 ## Code and design enthusiast:
 - 💻 Web & Mobile Computing Engineering Student at [ENSIAS](http://ensias.um5.ac.ma/)
@@ -12,7 +13,7 @@
 - [<img align="left" alt="D3vss | LinkedIn" width="24px" src="https://img.icons8.com/fluency/50/000000/linkedin.png" />][linkedin] Linkedin
 - [<img align="left" alt="D3vss | Twitter" width="24px" src="https://img.icons8.com/color/48/000000/twitter-squared.png"/>][twitter] Twitter
 - [<img align="left" alt="D3vss | Instagram" width="24px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/> ][instagram] Instagram
-- [<img align="left" alt="D3vss | Dribbble" width="24px" src="https://img.icons8.com/color/48/000000/new-post.png"/>][email] Email 
+- <img align="left" alt="D3vss | Dribbble" width="24px" src="https://img.icons8.com/color/48/000000/new-post.png"/> Email me at: **mohamed_oudoun@um5.ac.ma**
 
 ### Checkout my creative work:
 
@@ -20,7 +21,6 @@
 - [<img align="left" alt="D3vss | Dribbble" width="24px" src="https://img.icons8.com/color/48/000000/dribbble.png"/>][dribbble] Dribbble
 
 
-### All my socials (Linktree) [<img aligh="left" alt="D3vss | Linktree" width="24px" src="https://img.icons8.com/color/48/000000/linktree.png"/> ][linktree]
 
 <br />
 
