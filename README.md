@@ -25,8 +25,6 @@
 
 ## Github Stats:
 
-<br>
-
 <p>
    
 ![D3vss's GitHub stats](https://github-readme-stats.vercel.app/api/?username=D3vss&show_icons=true&theme=radical)
